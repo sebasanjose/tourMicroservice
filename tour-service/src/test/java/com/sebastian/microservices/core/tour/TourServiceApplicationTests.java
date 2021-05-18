@@ -1,10 +1,10 @@
-package com.sebastian.microservices.composite.tour;
+package com.sebastian.microservices.core.tour;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductServiceApplicationTests {
+class TourServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
